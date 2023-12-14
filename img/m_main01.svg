@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="393" height="852" viewBox="0 0 393 852">
+  <defs>
+    <style>
+      .cls-1, .cls-10 {
+        fill: #fff;
+      }
+
+      .cls-13, .cls-2, .cls-4, .cls-9 {
+        fill: none;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-iPhone_14_Pro_2);
+      }
+
+      .cls-13, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-8 {
+        fill: #454545;
+      }
+
+      .cls-9 {
+        stroke: #e0e0e0;
+        font-size: 35px;
+        font-family: NanumMyeongjo, Nanum Myeongjo;
+      }
+
+      .cls-10 {
+        font-size: 300px;
+        font-family: Arial-Black, Arial Black;
+        font-weight: 800;
+        letter-spacing: 0.05em;
+        opacity: 0.057;
+      }
+
+      .cls-11 {
+        fill: #ebebeb;
+        font-size: 25px;
+        font-family: AppleSDGothicNeo-Regular, Apple SD Gothic Neo;
+      }
+
+      .cls-12 {
+        isolation: isolate;
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-13 {
+        stroke-linecap: round;
+      }
+
+      .cls-14 {
+        stroke: none;
+      }
+
+      .cls-15 {
+        fill: #272727;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="사각형_171" data-name="사각형 171" class="cls-1" width="7.607" height="14.202"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="사각형_172" data-name="사각형 172" class="cls-1" width="13.753" height="13.753"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="사각형_173" data-name="사각형 173" class="cls-2" width="15.983" height="11.188"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect class="cls-2" y="4" width="138" height="31"/>
+    </clipPath>
+    <clipPath id="clip-iPhone_14_Pro_2">
+      <rect width="393" height="852"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_14_Pro_2" data-name="iPhone 14 Pro – 2" class="cls-3">
+    <rect class="cls-15" width="393" height="852"/>
+    <g id="그룹_40" data-name="그룹 40" transform="translate(37 789.441)">
+      <g id="그룹_39" data-name="그룹 39" transform="translate(0 0.309)">
+        <g id="타원_9" data-name="타원 9" class="cls-4" transform="translate(0 0.25)">
+          <circle class="cls-14" cx="12.5" cy="12.5" r="12.5"/>
+          <circle class="cls-2" cx="12.5" cy="12.5" r="12"/>
+        </g>
+        <g id="그룹_32" data-name="그룹 32" transform="translate(8.973 5.41)">
+          <g id="그룹_31" data-name="그룹 31" class="cls-5">
+            <path id="패스_37" data-name="패스 37" class="cls-1" d="M7.108,7.989,7.5,5.418H5.036V3.75A1.285,1.285,0,0,1,6.486,2.362H7.607V.174A13.687,13.687,0,0,0,5.616,0,3.138,3.138,0,0,0,2.258,3.459V5.418H0v2.57H2.258V14.2H5.036V7.989Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="그룹_38" data-name="그룹 38" transform="translate(38.257 0.309)">
+        <g id="타원_8" data-name="타원 8" class="cls-4" transform="translate(-0.257 0.25)">
+          <ellipse class="cls-14" cx="13" cy="12.5" rx="13" ry="12.5"/>
+          <ellipse class="cls-2" cx="13" cy="12.5" rx="12.5" ry="12"/>
+        </g>
+        <g id="그룹_34" data-name="그룹 34" transform="translate(5.753 5.634)">
+          <g id="그룹_33" data-name="그룹 33" class="cls-6">
+            <path id="패스_38" data-name="패스 38" class="cls-1" d="M6.877,1.239c1.836,0,2.054.007,2.779.04a3.8,3.8,0,0,1,1.277.237,2.13,2.13,0,0,1,.791.514,2.13,2.13,0,0,1,.514.791A3.8,3.8,0,0,1,12.474,4.1c.033.725.04.943.04,2.779s-.007,2.054-.04,2.779a3.8,3.8,0,0,1-.237,1.277,2.277,2.277,0,0,1-1.305,1.305,3.8,3.8,0,0,1-1.277.237c-.725.033-.942.04-2.779.04s-2.054-.007-2.779-.04a3.8,3.8,0,0,1-1.277-.237,2.13,2.13,0,0,1-.791-.514,2.131,2.131,0,0,1-.514-.791,3.8,3.8,0,0,1-.237-1.277c-.033-.725-.04-.943-.04-2.779s.007-2.054.04-2.779a3.8,3.8,0,0,1,.237-1.277A2.13,2.13,0,0,1,2.03,2.03a2.13,2.13,0,0,1,.791-.514A3.8,3.8,0,0,1,4.1,1.279c.725-.033.943-.04,2.779-.04M6.877,0c-1.868,0-2.1.008-2.835.041a5.046,5.046,0,0,0-1.669.32,3.371,3.371,0,0,0-1.218.793A3.371,3.371,0,0,0,.361,2.372a5.046,5.046,0,0,0-.32,1.669C.008,4.775,0,5.009,0,6.877s.008,2.1.041,2.835a5.046,5.046,0,0,0,.32,1.669A3.371,3.371,0,0,0,1.154,12.6a3.371,3.371,0,0,0,1.218.793,5.047,5.047,0,0,0,1.669.32c.733.033.968.041,2.835.041s2.1-.008,2.835-.041a5.047,5.047,0,0,0,1.669-.32,3.516,3.516,0,0,0,2.011-2.011,5.046,5.046,0,0,0,.32-1.669c.033-.733.041-.968.041-2.835s-.008-2.1-.041-2.835a5.046,5.046,0,0,0-.32-1.669A3.371,3.371,0,0,0,12.6,1.154,3.371,3.371,0,0,0,11.381.361,5.046,5.046,0,0,0,9.712.041C8.979.008,8.744,0,6.877,0"/>
+            <path id="패스_39" data-name="패스 39" class="cls-1" d="M93.167,89.636A3.531,3.531,0,1,0,96.7,93.167a3.531,3.531,0,0,0-3.531-3.531m0,5.824a2.292,2.292,0,1,1,2.292-2.292,2.292,2.292,0,0,1-2.292,2.292" transform="translate(-86.291 -86.291)"/>
+            <path id="패스_40" data-name="패스 40" class="cls-1" d="M262.146,64.613a.825.825,0,1,1-.825-.825.825.825,0,0,1,.825.825" transform="translate(-250.774 -61.407)"/>
+          </g>
+        </g>
+      </g>
+      <g id="그룹_37" data-name="그룹 37" transform="translate(75.75 0.309)">
+        <g id="타원_10" data-name="타원 10" class="cls-4" transform="translate(0.25 0.25)">
+          <circle class="cls-14" cx="12.5" cy="12.5" r="12.5"/>
+          <circle class="cls-2" cx="12.5" cy="12.5" r="12"/>
+        </g>
+        <g id="그룹_36" data-name="그룹 36" transform="translate(4.824 6.917)">
+          <g id="그룹_35" data-name="그룹 35" class="cls-7">
+            <path id="패스_41" data-name="패스 41" class="cls-1" d="M15.649,1.746A2,2,0,0,0,14.235.333,47.751,47.751,0,0,0,7.991,0,47.75,47.75,0,0,0,1.747.333,2,2,0,0,0,.334,1.746,20.8,20.8,0,0,0,0,5.593,20.8,20.8,0,0,0,.334,9.44a2,2,0,0,0,1.413,1.413,47.763,47.763,0,0,0,6.244.334,47.763,47.763,0,0,0,6.244-.334A2,2,0,0,0,15.649,9.44a20.794,20.794,0,0,0,.334-3.847,20.794,20.794,0,0,0-.334-3.847" transform="translate(0 0.001)"/>
+            <path id="패스_42" data-name="패스 42" class="cls-8" d="M73.583,41.586l4.152-2.4-4.152-2.4Z" transform="translate(-67.19 -33.595)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="그룹_46" data-name="그룹 46" transform="translate(143)">
+      <text id="K" class="cls-9" transform="translate(182 20)"><tspan x="0" y="32">K</tspan></text>
+      <text id="L" class="cls-9" transform="translate(194.5 32)"><tspan x="0" y="32">L</tspan></text>
+    </g>
+    <text id="K-2" data-name="K" class="cls-10" transform="translate(197 208)"><tspan x="0" y="330">K</tspan></text>
+    <text id="Introduce" class="cls-11" transform="translate(34 276)"><tspan x="0" y="0">Introduce</tspan></text>
+    <text id="Collection" class="cls-11" transform="translate(34 486)"><tspan x="0" y="0">Collection</tspan></text>
+    <text id="Works" class="cls-11" transform="translate(34 381)"><tspan x="0" y="0">Works</tspan></text>
+    <g id="스크롤_그룹_2" data-name="스크롤 그룹 2" class="cls-12" transform="translate(34 564)">
+      <text id="Philosophy" class="cls-11" transform="translate(0 27)"><tspan x="0" y="0">Philosophy</tspan></text>
+    </g>
+    <line id="선_40" data-name="선 40" class="cls-13" x2="19.289" y2="19.738" transform="translate(35.916 32.048)"/>
+    <line id="선_41" data-name="선 41" class="cls-13" x1="19.289" y2="19.738" transform="translate(35.916 32.048)"/>
+  </g>
+</svg>
